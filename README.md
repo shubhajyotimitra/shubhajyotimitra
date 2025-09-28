@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **shubhajyotimitra/shubhajyotimitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about problem solving and DSA
 - 📫 How to reach me: subhamm482@gmail.com
 - ⚡ Fun fact: I'm always beneath stack of problems
--->
+
